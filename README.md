@@ -1,11 +1,13 @@
+<p>
 <a href="https://github.com/omarkhishma">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
     <img alt="Omar Khaled — Software for real-life problems." src="./assets/banner-light.svg" width="100%">
   </picture>
 </a>
+</p>
 
-I build software for real-life problems. Right now that means two things: making the language of the Quran explorable word by word, and giving charities a shared, verifiable view of the aid they deliver.
+Right now I'm working on two things: making the language of the Quran explorable word by word, and giving charities a shared, verifiable view of the aid they deliver.
 
 ### Building
 
