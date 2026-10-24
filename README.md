@@ -1,6 +1,8 @@
 <p>
 <a href="https://github.com/omarkhishma">
   <picture>
+    <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="./assets/banner-dark-mobile.svg">
+    <source media="(max-width: 767px)" srcset="./assets/banner-light-mobile.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
     <img alt="Omar Khaled — Software for real-life problems." src="./assets/banner-light.svg" width="100%">
   </picture>
